@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/three.quarks-editor/static/css/main.1d130e4e.css",
+    "main.js": "/three.quarks-editor/static/js/main.ddfa6d54.js",
+    "index.html": "/three.quarks-editor/index.html",
+    "main.1d130e4e.css.map": "/three.quarks-editor/static/css/main.1d130e4e.css.map",
+    "main.ddfa6d54.js.map": "/three.quarks-editor/static/js/main.ddfa6d54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d130e4e.css",
+    "static/js/main.ddfa6d54.js"
+  ]
+}
